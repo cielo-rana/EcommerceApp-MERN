@@ -1,0 +1,13 @@
+.login_image--container {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/53b2c032e4b068ab3e74a18e/1624551941699-ZMRZE4LV4NCW9Q6IA3KO/1Y9A8579.jpg);
+    height: 90vh;
+    background-size: cover;
+}
+
+.login_form--container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
